@@ -302,4 +302,7 @@ For questions or issues, please refer to the project documentation or create an 
 
 ---
 
+## Demo and Page
+<img width="936" height="576" alt="image" src="https://github.com/user-attachments/assets/5c0cdd5d-37c6-4863-ac72-de349ca27551" />
+
 **Built with open-source technologies only - No API keys required!**
